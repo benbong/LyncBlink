@@ -1,0 +1,11 @@
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\bin\Debug\LyncBlink.exe.config
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\obj\Debug\LyncBlink.csprojResolveAssemblyReference.cache
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\obj\Debug\LyncBlink.Form1.resources
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\obj\Debug\LyncBlink.Properties.Resources.resources
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\obj\Debug\LyncBlink.csproj.GenerateResource.Cache
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\bin\Debug\LyncBlink.exe
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\bin\Debug\LyncBlink.pdb
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\bin\Debug\Microsoft.Lync.Model.dll
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\bin\Debug\Microsoft.Lync.Model.xml
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\obj\Debug\LyncBlink.exe
+E:\Users\Benoit\Documents\GitHub\LyncBlink\LyncBlink\obj\Debug\LyncBlink.pdb
